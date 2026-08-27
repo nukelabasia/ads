@@ -1,5 +1,5 @@
 (function() {
-    const adUrl = 'https://www.effectivecpmnetwork.com/etepj9f9?key=415ae81ecb0769facc2ef1a943ee0753';
+    const adUrl = 'https://www.profitableratecpmnetwork.com/etepj9f9?key=415ae81ecb0769facc2ef1a943ee0753';
     const cookieName = 'pop_status';
     const expireSeconds = 15; // Durasi diubah menjadi 15 detik
 
